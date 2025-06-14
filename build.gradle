@@ -30,7 +30,7 @@ dependencies {
 
     implementation 'com.google.code.gson:gson'
 
-    implementation("org.springframework.cloud:spring-cloud-function-adapter-aws") {
+    implementation("org.springframework.cloud:spring-cloud-function-web") {
         exclude group: 'com.fasterxml.jackson.datatype'
         exclude group: 'com.fasterxml.jackson.core'
         exclude group: 'com.fasterxml.jackson.module'
