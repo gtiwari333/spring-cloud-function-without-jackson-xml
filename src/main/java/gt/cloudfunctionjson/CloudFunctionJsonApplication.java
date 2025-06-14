@@ -15,8 +15,8 @@ public class CloudFunctionJsonApplication {
     }
 
 
-    @Bean
-    JsonMapper gsonMapper(Gson gson) {
-        return new GsonMapper(gson);
-    }
+//    @Bean
+//    JsonMapper gsonMapper(Gson gson) {
+//        return new GsonMapper(gson);
+//    }
 }
