@@ -1,5 +1,7 @@
 # Showcase for bug
 
+https://github.com/spring-cloud/spring-cloud-function/issues/1284
+
 # Scenario 1 - run CloudFunctionJsonApplication without JsonMapper bean declaration
 
 
